@@ -3,7 +3,7 @@
   "name": "CallRail",
   "categories": ["ANALYTICS", "CALL_TRACKING"],
   "organization": "CALLRAIL",
-  "iconUrl": "https://s3.amazonaws.com/calltrk-staging/logos/40x40%20blue.png",
+  "iconUrl": "https://adzviser.com/assets/images/callRail.svg",
   "sourceUrl": "https://www.callrail.com/",
   "dataVisibility": ["PRIVATE"]
 }
